@@ -1,0 +1,2 @@
+module MagnusGitHubTesting2 {
+}
